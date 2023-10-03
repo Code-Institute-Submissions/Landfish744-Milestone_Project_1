@@ -1,5 +1,5 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,500;0,6..72,600;1,6..72,300&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@300&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #18251b;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Newsreader', sans-serif;
 }
 
 /* Header */
@@ -29,6 +29,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    font-family: 'Newsreader', sans-serif;
 }
 
 header a {
@@ -37,7 +38,7 @@ header a {
 }
 
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Newsreader', sans-serif;
 }
 
 #menu {
@@ -46,12 +47,12 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: .5em;
 }
 
 .active {
-    border-bottom:1px solid  #18251b;
+    border-bottom: 1px solid #18251b;
 }
 
 /* Navbar styles with dropdown toggle */
