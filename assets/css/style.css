@@ -91,7 +91,27 @@ main {
 
 /* Footer */
 footer {
-    background-color: #2b60ca;
+    background-color: #1d428a;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ac944d;
+}
+
+footer > h2 {
+    text-align: center;
+    color: #ac944d;
 }
 
 /* Media query: phones and larger (365px and up) */
