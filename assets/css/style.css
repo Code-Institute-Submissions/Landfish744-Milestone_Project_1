@@ -83,10 +83,16 @@ nav {
 
 /* Main content */
 main {
-    background-color: #f5f4f6;
     /* Make main take take up any surplus space */
     flex: 1 0 auto;
-    margin-top: 68px;
+    margin-top: 64px;
+}
+
+/* Leeds section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/samuel-ryde-h0q6f4BAeH8-unsplash.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
@@ -118,7 +124,7 @@ footer > h2 {
 @media screen and (min-width: 365px) {
     /* Main content */
     main {
-        margin-top: 38px;
+        margin-top: 34px;
     }
 }
 
