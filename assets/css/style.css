@@ -86,10 +86,42 @@ main {
     background-color: #f5f4f6;
     /* Make main take take up any surplus space */
     flex: 1 0 auto;
-    margin-top: 98px;
+    margin-top: 68px;
 }
 
 /* Footer */
 footer {
     background-color: #2b60ca;
+}
+
+/* Media query: phones and larger (365px and up) */
+@media screen and (min-width: 365px) {
+    /* Main content */
+    main {
+        margin-top: 38px;
+    }
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
