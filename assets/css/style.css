@@ -88,11 +88,35 @@ main {
     margin-top: 64px;
 }
 
-/* Leeds section */
+/* Hero section */
 #hero {
     height: 600px;
     width: 100%;
     background: url("../images/samuel-ryde-h0q6f4BAeH8-unsplash.jpg") no-repeat center center/cover;
+}
+
+/* info section */
+#info h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+    text-decoration: underline;
+}
+
+#circle-cover-img {
+    background: url('../images/jannik-skorna-mY2ZHBU6GRk-unsplash.jpg') no-repeat top center / cover;
+    height: 65vw;
+    width: 65vw;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#summery-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Footer */
@@ -149,6 +173,20 @@ footer > h2 {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    /* Main */
+    #summery-image {
+        display: flex;
+        align-items: left;
+        justify-content: left;
+        padding-left: 2rem;
+        float: left;
+        margin-right: 10px;
+    }
+
+    p > main {
+        margin-left: 10px;
     }
 }
 
