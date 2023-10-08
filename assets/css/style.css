@@ -92,6 +92,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
+    padding-bottom: 50em;
     background: url("../images/samuel-ryde-h0q6f4BAeH8-unsplash.jpg") no-repeat center center/cover;
 }
 
@@ -101,6 +102,7 @@ main {
     text-align: center;
     font-size: 280%;
     text-decoration: underline;
+    color: #ac944d;
 }
 
 #circle-cover-img {
