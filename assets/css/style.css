@@ -119,6 +119,17 @@ main {
     justify-content: center;
 }
 
+/* Gallery page */
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 /* Footer */
 footer {
     background-color: #1d428a;
@@ -149,6 +160,14 @@ footer > h2 {
     /* Main content */
     main {
         margin-top: 34px;
+    }
+}
+
+/* Media query: large and landscape phones ( 576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
     }
 }
 
@@ -187,6 +206,11 @@ footer > h2 {
 
     p > main {
         margin-left: 10px;
+    }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
     }
 }
 
