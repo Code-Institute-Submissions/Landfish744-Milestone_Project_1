@@ -141,14 +141,14 @@ main {
     text-align: center;
 }
 
-#decade>h3 {
+#history>div>h3 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 150%;
     text-decoration: underline;
 }
 
-#decade>p {
+#history>div>p {
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 2em;
