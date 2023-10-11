@@ -51,6 +51,8 @@ The site primarily uses four colors which are :
 #1d428a: A royal blue , also a club color.
 #080c09: A deep black , this was for text to show clearly.
 
+!{colors}(assets/images/Colors-Milestone-Project-1)
+
 ## Fonts
 
 - "Newsreader" was the Font throughout.
