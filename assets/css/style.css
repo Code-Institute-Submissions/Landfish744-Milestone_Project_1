@@ -120,8 +120,9 @@ main {
     max-height: 200px;
 }
 
-#summary p {
-    padding: 1rem 2rem;
+#summary {
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 #summary-image {
