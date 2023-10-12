@@ -19,7 +19,7 @@ This project was built for fans of the football club of Leeds United AFC that ar
 
  ## Testing
 
- ## Technoligies
+ ## Technologies
 
  ## Deployment
 
@@ -51,7 +51,7 @@ The site primarily uses four colors which are :
 #1d428a: A royal blue , also a club color.
 #080c09: A deep black , this was for text to show clearly.
 
-!{colors}(assets/images/Colors-Milestone-Project-1)
+![Colour Palette]https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/Colors-Milestone-project-1.png
 
 ## Fonts
 
@@ -72,7 +72,7 @@ The images used on this site are all from unsplash. They are football and the ci
 # Testing 
 
 
-# Technoligies
+# Technologies
 
 ## Main Languages :
 
