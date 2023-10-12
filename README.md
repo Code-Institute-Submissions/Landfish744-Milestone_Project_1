@@ -51,7 +51,7 @@ The site primarily uses four colors which are :
 #1d428a: A royal blue , also a club color.
 #080c09: A deep black , this was for text to show clearly.
 
-![Colour Palette]https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/Colors-Milestone-project-1.png
+![Colour Palette](https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/Colors-Milestone-project-1.png)
 
 ## Fonts
 
