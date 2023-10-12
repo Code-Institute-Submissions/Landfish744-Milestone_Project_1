@@ -48,9 +48,9 @@ The audience is all agaes , anyone who loves football is welcome. You do not hav
 
 The site primarily uses four colors which are :
 
-#ffcd00: A rich yellow , often found on the clubs crest.
-#1d428a: A royal blue , also a club color.
-#080c09: A deep black , this was for text to show clearly.
+- #ffcd00: A rich yellow , often found on the clubs crest.
+- #1d428a: A royal blue , also a club color.
+- #080c09: A deep black , this was for text to show clearly.
 
 ![Colour Palette](https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/Colors-Milestone-project-1.png)
 
