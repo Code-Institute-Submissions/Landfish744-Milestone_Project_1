@@ -72,13 +72,16 @@ The images used on this site are all from unsplash. They are football and the ci
 # Testing 
 
 - The page has a great rating in lighthouse.
-###
+
+![Lighthouse score](https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/Lighthouse%20score.png)
 
 - The page has no errors in html validator.
-###
+
+![html validator](https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/HTML%20validator.png)
 
 - The css also passes the validator.
-###
+
+![css validator](https://github.com/Landfish744/Milestone_Project_1/blob/main/assets/images/CSS%20validator.png)
 
 # Technologies
 
