@@ -82,12 +82,12 @@ The images used on this site are all from unsplash. They are football and the ci
 
 ## Technologies
 
-### Main languages :
+### Main languages
 
 - HTML
 - CSS 
 
-### Programs and libraries used :
+### Programs and libraries used
 
 - Google fonts 
 - Font awesome
