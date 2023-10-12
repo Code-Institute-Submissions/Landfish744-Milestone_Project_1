@@ -71,6 +71,14 @@ The images used on this site are all from unsplash. They are football and the ci
 
 # Testing 
 
+- The page has a great rating in lighthouse.
+###
+
+- The page has no errors in html validator.
+###
+
+- The css also passes the validator.
+###
 
 # Technologies
 
@@ -90,7 +98,11 @@ The images used on this site are all from unsplash. They are football and the ci
 
 # Deployment
 
-The site was deployed to github pages.
+The site was deployed to github pages. The steps to deploy are :
+
+- In github repository , navigate to the settings tab.
+- From the source section drop-down menu , select main branch.
+- Oce the main branch has been selected , the page will automatically refresh with detailed ribbon display to indicate successful deployment.
 
 # Credits 
 
