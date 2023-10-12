@@ -106,7 +106,7 @@ The site was deployed to github pages. The steps to deploy are :
 
 - In github repository , navigate to the settings tab.
 - From the source section drop-down menu , select main branch.
-- Oce the main branch has been selected , the page will automatically refresh with detailed ribbon display to indicate successful deployment.
+- Once the main branch has been selected , the page will automatically refresh with detailed ribbon display to indicate successful deployment.
 
 # Credits 
 
