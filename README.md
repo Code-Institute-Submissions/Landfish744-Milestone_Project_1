@@ -16,12 +16,11 @@ This project was built for fans of the football club of Leeds United AFC that ar
   - [Images](#images "Images")
 - [Features](#features "Features")
 - [Testing](#testing "Testing")
-- [Technologies Used](#technologies-used "Technologies Used")
-  - [Main Languages Used](#main-languages-used "Main Languages Used")
-  - [Programs used and Libraries Used](#programes-used-and-libraries-used "Programs used and Libraries Used")
+- [Technologies](#technologies "Technologies")
+  - [Main Languages](#main-languages "Main Languages")
+  - [Programs used and libraries used](#programes-used-and-libraries-used "Programs used and libraries used")
 - [Deployment](#deployment "Deployment")
 - [Credits](#credits "Credits")
-  !
 
 
 ## UX 
@@ -88,7 +87,7 @@ The images used on this site are all from unsplash. They are football and the ci
 - HTML
 - CSS 
 
-### Programs used and Libraries Used :
+### Programs used and libraries used :
 
 - Google fonts 
 - Font awesome
